@@ -1,0 +1,17 @@
+{
+  "name": "get-version-plugin",
+  "version": "0.0.3",
+  "description": "get project version after build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "version",
+    "build",
+    "webpack"
+  ],
+  "author": "herbert",
+  "license": "ISC"
+}
